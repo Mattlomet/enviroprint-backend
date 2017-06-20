@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  day: 9.99
+  month: 9.99
+  year: 9.99
+
+two:
+  day: 9.99
+  month: 9.99
+  year: 9.99
