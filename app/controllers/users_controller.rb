@@ -31,12 +31,6 @@ class UsersController < ApplicationController
       render json: logged_in_state
   end
 
-  def update
-  end
-
-  def destroy
-  end
-
   private
 
   def user_params
